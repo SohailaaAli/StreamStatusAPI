@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "B+vZbaKeBy6/R3mEEE1syHZcHk48fOh7t0aiOt04meU=",
+  "Source": "StatusStream.API",
+  "BasePath": "_content/StatusStream.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

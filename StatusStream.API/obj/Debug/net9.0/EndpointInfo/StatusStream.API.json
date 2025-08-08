@@ -1,0 +1,80 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "StatusStream API",
+    "description": "A lightweight RESTful API for posting and retrieving short status updates. Designed for internal use or prototyping social feed features without authentication.",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Status/PostStatus": {
+      "post": {
+        "tags": [
+          "Status"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/StatusDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/StatusDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/StatusDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Status/GetAllStatuses": {
+      "get": {
+        "tags": [
+          "Status"
+        ],
+        "parameters": [
+          {
+            "name": "user",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "StatusDto": {
+        "type": "object",
+        "properties": {
+          "user": {
+            "type": "string",
+            "nullable": true
+          },
+          "message": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

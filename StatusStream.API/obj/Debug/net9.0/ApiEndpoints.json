@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "StatusStream.API.Controllers.StatusController",
+    "Method": "GetAllStatuses",
+    "RelativePath": "api/Status/GetAllStatuses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StatusStream.API.Controllers.StatusController",
+    "Method": "PostStatus",
+    "RelativePath": "api/Status/PostStatus",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "StatusStream.Application.DTOs.StatusDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
