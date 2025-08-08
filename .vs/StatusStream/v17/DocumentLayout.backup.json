@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Cv\\StatusStream\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61F2B7A3-FFDD-486F-915A-F54798FBEFE6}|StatusStream.API\\StatusStream.API.csproj|f:\\cv\\statusstream\\statusstream.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61F2B7A3-FFDD-486F-915A-F54798FBEFE6}|StatusStream.API\\StatusStream.API.csproj|solutionrelative:statusstream.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61F2B7A3-FFDD-486F-915A-F54798FBEFE6}|StatusStream.API\\StatusStream.API.csproj|f:\\cv\\statusstream\\statusstream.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61F2B7A3-FFDD-486F-915A-F54798FBEFE6}|StatusStream.API\\StatusStream.API.csproj|solutionrelative:statusstream.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2964EFFB-0849-442D-8CDF-827EB5614489}|StatusStream.Tests\\StatusStream.Tests.csproj|f:\\cv\\statusstream\\statusstream.tests\\servicestests\\statusservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2964EFFB-0849-442D-8CDF-827EB5614489}|StatusStream.Tests\\StatusStream.Tests.csproj|solutionrelative:statusstream.tests\\servicestests\\statusservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2964EFFB-0849-442D-8CDF-827EB5614489}|StatusStream.Tests\\StatusStream.Tests.csproj|f:\\cv\\statusstream\\statusstream.tests\\controllertests\\statuscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2964EFFB-0849-442D-8CDF-827EB5614489}|StatusStream.Tests\\StatusStream.Tests.csproj|solutionrelative:statusstream.tests\\controllertests\\statuscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA6B60F8-AC48-4120-BA03-ACE10A0FC361}|StatusStream.Infrastructure\\StatusStream.Infrastructure.csproj|f:\\cv\\statusstream\\statusstream.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA6B60F8-AC48-4120-BA03-ACE10A0FC361}|StatusStream.Infrastructure\\StatusStream.Infrastructure.csproj|solutionrelative:statusstream.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9BF2FA2-C728-411F-8597-794AA4CC6D69}|StatusStream.Domain\\StatusStream.Domain.csproj|f:\\cv\\statusstream\\statusstream.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9BF2FA2-C728-411F-8597-794AA4CC6D69}|StatusStream.Domain\\StatusStream.Domain.csproj|solutionrelative:statusstream.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491651AB-A837-445A-BFED-8BAA0D4745BE}|StatusStream.Application\\StatusStream.Application.csproj|f:\\cv\\statusstream\\statusstream.application\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491651AB-A837-445A-BFED-8BAA0D4745BE}|StatusStream.Application\\StatusStream.Application.csproj|solutionrelative:statusstream.application\\interfaces\\istatusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491651AB-A837-445A-BFED-8BAA0D4745BE}|StatusStream.Application\\StatusStream.Application.csproj|f:\\cv\\statusstream\\statusstream.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491651AB-A837-445A-BFED-8BAA0D4745BE}|StatusStream.Application\\StatusStream.Application.csproj|solutionrelative:statusstream.application\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491651AB-A837-445A-BFED-8BAA0D4745BE}|StatusStream.Application\\StatusStream.Application.csproj|f:\\cv\\statusstream\\statusstream.application\\dtos\\statusresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491651AB-A837-445A-BFED-8BAA0D4745BE}|StatusStream.Application\\StatusStream.Application.csproj|solutionrelative:statusstream.application\\dtos\\statusresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "F:\\Cv\\StatusStream\\StatusStream.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StatusStream.API\\Properties\\launchSettings.json",
+              "ToolTip": "F:\\Cv\\StatusStream\\StatusStream.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StatusStream.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T05:55:17.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Cv\\StatusStream\\StatusStream.API\\Program.cs",
+              "RelativeDocumentMoniker": "StatusStream.API\\Program.cs",
+              "ToolTip": "F:\\Cv\\StatusStream\\StatusStream.API\\Program.cs",
+              "RelativeToolTip": "StatusStream.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:54:46.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusServiceTests.cs",
+              "DocumentMoniker": "F:\\Cv\\StatusStream\\StatusStream.Tests\\ServicesTests\\StatusServiceTests.cs",
+              "RelativeDocumentMoniker": "StatusStream.Tests\\ServicesTests\\StatusServiceTests.cs",
+              "ToolTip": "F:\\Cv\\StatusStream\\StatusStream.Tests\\ServicesTests\\StatusServiceTests.cs",
+              "RelativeToolTip": "StatusStream.Tests\\ServicesTests\\StatusServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:54:36.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatusControllerTests.cs",
+              "DocumentMoniker": "F:\\Cv\\StatusStream\\StatusStream.Tests\\ControllerTests\\StatusControllerTests.cs",
+              "RelativeDocumentMoniker": "StatusStream.Tests\\ControllerTests\\StatusControllerTests.cs",
+              "ToolTip": "F:\\Cv\\StatusStream\\StatusStream.Tests\\ControllerTests\\StatusControllerTests.cs",
+              "RelativeToolTip": "StatusStream.Tests\\ControllerTests\\StatusControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:54:34.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "F:\\Cv\\StatusStream\\StatusStream.Infrastructure\\Repository.cs",
+              "RelativeDocumentMoniker": "StatusStream.Infrastructure\\Repository.cs",
+              "ToolTip": "F:\\Cv\\StatusStream\\StatusStream.Infrastructure\\Repository.cs",
+              "RelativeToolTip": "StatusStream.Infrastructure\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:54:33.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Status.cs",
+              "DocumentMoniker": "F:\\Cv\\StatusStream\\StatusStream.Domain\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "StatusStream.Domain\\Entities\\Status.cs",
+              "ToolTip": "F:\\Cv\\StatusStream\\StatusStream.Domain\\Entities\\Status.cs",
+              "RelativeToolTip": "StatusStream.Domain\\Entities\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:54:31.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStatusService.cs",
+              "DocumentMoniker": "F:\\Cv\\StatusStream\\StatusStream.Application\\Interfaces\\IStatusService.cs",
+              "RelativeDocumentMoniker": "StatusStream.Application\\Interfaces\\IStatusService.cs",
+              "ToolTip": "F:\\Cv\\StatusStream\\StatusStream.Application\\Interfaces\\IStatusService.cs",
+              "RelativeToolTip": "StatusStream.Application\\Interfaces\\IStatusService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:54:27.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\Cv\\StatusStream\\StatusStream.Application\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "StatusStream.Application\\Interfaces\\IRepository.cs",
+              "ToolTip": "F:\\Cv\\StatusStream\\StatusStream.Application\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "StatusStream.Application\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:54:25.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusResponseDto.cs",
+              "DocumentMoniker": "F:\\Cv\\StatusStream\\StatusStream.Application\\DTOs\\StatusResponseDto.cs",
+              "RelativeDocumentMoniker": "StatusStream.Application\\DTOs\\StatusResponseDto.cs",
+              "ToolTip": "F:\\Cv\\StatusStream\\StatusStream.Application\\DTOs\\StatusResponseDto.cs",
+              "RelativeToolTip": "StatusStream.Application\\DTOs\\StatusResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T05:54:23.715Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

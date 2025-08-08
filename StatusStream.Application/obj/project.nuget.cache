@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UA+yDslA4C4=",
+  "success": true,
+  "projectFilePath": "F:\\Cv\\StatusStream\\StatusStream.Application\\StatusStream.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AIO\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
+    "C:\\Users\\AIO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.4\\microsoft.extensions.logging.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
